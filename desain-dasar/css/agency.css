@@ -151,8 +151,12 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: black;
+  color: #0095d9;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+.navbar-custom .navbar-brand img{
+  height: 40px;
+  margin-top: -10px;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -238,9 +242,98 @@ header {
   color: white;
   min-height: 700px;
 }
+header .intro-title {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 150px;
+  text-align: left;
+}
+header .intro-title h3{
+  font-family: arial;
+  text-transform: none;
+  color:white;
+  font-size:20pt;
+  width: 50%;
+  font-style: italic;
+  padding: 10px;
+  line-height: 30pt;
+}
+header .intro-title h3 span{
+  font-style: normal;
+  font-size: 15pt;
+}
 header .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  position: absolute;
+  left:0;
+  right: 0;
+  bottom: 0;
+  height: 100px;
+  
+  /*border: solid 1px red;*/
+}
+header .intro-text .left-nav, header .intro-text .right-nav{
+  position: absolute;
+  bottom: 80px;
+  background-color: #555;
+  border:none;
+  padding: 10px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+header .intro-text .left-nav:hover, header .intro-text .right-nav:hover{
+  background-color: #999;
+}
+header .intro-text .left-nav{
+  left:5px;
+}
+header .intro-text .right-nav{
+  right:5px;
+}
+header .intro-text .col-md-4{}
+header .intro-text .col-md-4 a{
+  border:none;
+  float:left;
+  background-color: #ccc;
+  border-radius:10px;
+  opacity: 0.9;
+  margin-bottom: 10px;
+  min-height: 180px;
+  line-height: 50px;
+  position: relative;
+}
+header .intro-text .col-md-4 a h3{
+  color: #0095d9;
+  padding: 10px;
+}
+header .intro-text .col-md-4 a .tanggal{
+  display: block;
+  padding: 10px;
+  color: #555;
+  font-weight: bold;
+}
+header .intro-text .col-md-4 a .btnbottom{
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+  line-height: 40px;
+  border-radius: 0 0 10px 10px;
+  background-color: #eee;
+  color: #0095d9;
+  display: none;
+  position: absolute;
+  left:0;
+  right: 0;
+  bottom: 0;
+}
+header .intro-text .col-md-4 a:hover{
+  text-decoration: none;
+}
+header .intro-text .col-md-4 a:hover .btnbottom{
+  background-color: #0095d9;
+  color: white;
+  display: block;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
