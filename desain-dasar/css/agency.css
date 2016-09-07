@@ -319,12 +319,14 @@ section h3.section-subheading {
   border-radius: 10px;
   height: 400px;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 #services .row-content .col-md-4 a .theimg{
   height: 250px;
   overflow: hidden;  
   float: left;
   margin-bottom: 20px;
+  position: relative;
 }
 #services .row-content .col-md-4 a .theimg img{
   height: 250px;
@@ -349,7 +351,7 @@ section h3.section-subheading {
   /*color: white;*/
 }
 #services .row-content .col-md-4 a:hover .theimg img{
-  opacity: 0.9;
+  /*opacity: 0.9;*/
 }
 #services .row-content .col-md-4 a:hover .theimg span{
   visibility: visible;
