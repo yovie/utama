@@ -309,6 +309,51 @@ section h3.section-subheading {
 #services .row-content{
   margin-top: 30px;
 }
+#services .row-content .col-md-4{}
+#services .row-content .col-md-4 a{
+  width: 100%;
+  height: 100%;
+  border:  solid 1px #eee;
+  border-bottom: solid 5px #eee;
+  float: left;
+  border-radius: 10px;
+  height: 400px;
+  overflow: hidden;
+}
+#services .row-content .col-md-4 a .theimg{
+  height: 250px;
+  overflow: hidden;  
+  float: left;
+  margin-bottom: 20px;
+}
+#services .row-content .col-md-4 a .theimg img{
+  height: 250px;
+  min-width: 100%;
+  /*width: auto;*/
+  border-radius: 0;
+}
+#services .row-content .col-md-4 a .theimg span{
+  position: absolute;
+  top:100px;
+  left:30%;
+  width: 40%;
+  visibility: hidden;
+}
+#services .row-content .col-md-4 a:hover h4{
+  /*color: white;*/
+}
+#services .row-content .col-md-4 a:hover{
+  /*background:#0095d9;*/
+}
+#services .row-content .col-md-4 a:hover p{
+  /*color: white;*/
+}
+#services .row-content .col-md-4 a:hover .theimg img{
+  opacity: 0.9;
+}
+#services .row-content .col-md-4 a:hover .theimg span{
+  visibility: visible;
+}
 .service-heading {
   margin: 15px 0;
   text-transform: none;
@@ -750,7 +795,7 @@ ul.social-buttons li a:active {
 }
 ::selection {
   text-shadow: none;
-  background: #0095d9
+  background: #0095d9;
 }
 img::selection {
   background: transparent;
@@ -764,8 +809,9 @@ body {
 
 
 .product-content img{
-  height: 200px;
+  width:100%;
   margin-bottom: 10px;
+  border-radius: 10px;
 }
 .product-content p{
   text-align: justify;
