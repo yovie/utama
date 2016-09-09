@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="481" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Sep  9 08:55:24 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">fadylah</m>
+<m key="dc.date">Fri Sep  9 06:53:54 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="59" edit-time="7161" last-saved="1473386124" uid="5f02559e-761f-11e6-8c7e-883247be15c7">
+<version id="57" started="1473378834" uid="de37cc80-762f-11e6-8c7e-883247be15c7" auto="0" top-xid="6"/>
+<version id="59" started="1473386081" uid="795269aa-7630-11e6-8aa4-838eac2f8a32" auto="0" top-xid="481"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1004" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1017" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1020" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1027" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1029" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1033" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1037" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1039" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1043" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+</lists>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="5" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="6" props="text-align:center; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt">SURAT PERJANJIAN KONTRAK KERJA</c><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="8" props="text-align:center; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt">PEMBUATAN WEB PROFILE CORMA UMROH</c><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Yang bertanda tangan dibawah ini :</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c props="font-family:Serif; font-size:11pt">• Nama 		: Dedi Pardiansyah Natanagara</c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Jabatan 		: Direktur</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Perusahaan 	: PT. Cahaya Cordoba Utama</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Alamat 		: -</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="140" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c props="font-family:Serif; font-size:11pt">Dalam hal ini bertindak untuk dan atas nama PT. Cahaya Cordoba Utama, selanjutnya disebut PIHAK PERTAMA.</c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Nama		: Yopi </c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Jabatan 		: Programmer</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Perusahaan	: -</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="23" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Alamat		: </c><c props="font-family:Serif; font-size:11pt"></c><c props="font-family:Serif">Jl. Siti Munigar Gang Adikacih Mesjid Alfalaah No.195/22 E, RT.04 RW.02 kel.Nyengseret kec.Astanaanyar Bandung 40242</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="141" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c props="font-family:Serif; font-size:11pt">Dalam hal ini bertindak untuk dan atas nama pribadi, selanjutnya disebut PIHAK KEDUA.</c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="27" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Bahwa Pihak Kedua adalah seorang Programmer yang bergerak dalam bidang usaha jasa dan perdagangan informasi teknologi.</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="163" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="29" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">• Bahwa antara Kedua belah pihak telah mufakat untuk mengadakan perjanjian kontrak pembuatan Web Profile Corma Umroh pada Pihak Pertama dengan biaya sebesar  Rp. 15.000.000</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c props="font-weight:bold; font-family:Serif; font-size:11pt">Dengan ketentuan sebagai berikut :</c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="37" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 1</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="38" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">BENTUK KONTRAK KERJA</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">1. Bentuk kontrak kerja adalah pembuatan Web Profile Corma Umroh</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">2. Fitur dan detail dari Web Profile Corma Umroh terlampir</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="44" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 2</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="45" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">RUANG LINGKUP KERJA</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="48" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Ruang lingkup kerja pembuatan Web Profile Corma Umroh adalah sebagai berikut :</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="49" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1001"></c><field type="list_label" xid="166" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Pembuatan Web Profile Corma Umroh dengan fitur yang terlampir</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="167" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1002"></c><field type="list_label" xid="168" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Instalasi Web Profile ke hosting</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="169" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="width:0in; list-tag:1003; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="170" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Maintenance ?</c></p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="52" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 3</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="53" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">JANGKA WAKTU PELAKSANAAN</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="56" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Jangka waktu pelaksanaan kontrak kerja jasa pembuatan Web Profile Corma Umroh ini berlangsung dari tanggal 9 September 2016 sampai dengan 16 September 2016, dan kontrak kerja ini dapat diperpanjang jika ada perubahan yang disepakati bersama.</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="58" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 4</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="59" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">SISTEM KERJA</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p level="1" listid="1004" parentid="0" style="Normal" xid="62" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1005"></c><field type="list_label" xid="171" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Pihak Kedua akan melakukan pengerjaan Web Profile Corma Umroh sampai tanggal 14 September 2016</c></p>
+<p level="1" listid="1004" parentid="0" style="Normal" xid="172" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1006"></c><field type="list_label" xid="173" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Pihak Kedua mempresentasikan hasil pengerjaan kepada Pihak Pertama pada tanggal 15 September 2016</c></p>
+<p level="1" listid="1004" parentid="0" style="Normal" xid="174" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="width:0in; list-tag:1007; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="175" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Pihak Pertama melakukan pengujian terhadap hasil pengejaan Pihak Kedua pada tanggal 15 September 2016 dan memberi koreksi jika ada yang kurang sesuai dengan fitur yang terlampir</c></p>
+<p level="1" listid="1004" parentid="0" style="Normal" xid="176" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="width:0in; list-tag:1008; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="177" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Pihak Kedua menyerahkan hasil perbaikan (jika ada) kepada Pihak Pertama tanggal 16 September 2016</c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="66" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 5</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="67" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">ANGGARAN BIAYA</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p level="1" listid="1017" parentid="0" style="Normal" xid="70" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1018"></c><field type="list_label" xid="185" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Pihak Pertama setuju untuk membayar jasa perbaikan bulanan komputer kepada Pihak Kedua sesuai dengan kontrak yang telah disepakati</c></p>
+<p level="1" listid="1017" parentid="0" style="Normal" xid="186" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1019"></c><field type="list_label" xid="187" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Khusus untuk domain dan hosting, ditanggung oleh Pihak Kedua</c></p>
+<p level="1" listid="1017" parentid="0" style="Normal" xid="469" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1746; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="470" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Ukuran hosting sebesar 1GB</c></p>
+<p level="1" listid="1017" parentid="0" style="Normal" xid="471" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1747; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="472" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Nama domain sesuai kesepakatan</c></p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="75" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 6</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="76" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">PEMBAYARAN JASA SERVICE</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p level="1" listid="1020" parentid="0" style="Normal" xid="192" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="list-tag:1021; font-family:Serif"></c><field type="list_label" xid="196" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif">Pihak Pertama membayar 50% kepada Pihak Kedua diawal kontrak kesepakatan tanggal 9 September 2016</c></p>
+<p level="1" listid="1020" style="Normal" xid="194" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="list-tag:1022; font-family:Serif"></c><field type="list_label" xid="197" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif">Pihak Pertama melunasi sisanya setelah Pihak Kedua menyerahkan hasil pekerjaannya tanggal 15 September 2016</c></p>
+<p style="Normal" xid="189" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="81" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 7</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="82" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">HAK DAN KEWAJIBAN</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Kewajiban Pihak Pertama :</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p level="1" listid="1027" parentid="0" style="Normal" xid="202" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1028"></c><field type="list_label" xid="203" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Melakukan pembayaran sesuai dengan kesepakatan pada pasal 6</c></p>
+<p style="Normal" xid="199" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="90" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c props="font-family:Serif; font-size:11pt">Hak Pihak Pertama :</c></p>
+<p level="1" listid="1029" parentid="0" style="Normal" xid="204" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1030"></c><field type="list_label" xid="205" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Menerima hasil pekerjaan dari Pihak Kedua</c></p>
+<p level="1" listid="1029" parentid="0" style="Normal" xid="206" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1031; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="207" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Menerima penjelasan mengenai cara penggunaan hasil pekerjaan</c></p>
+<p level="1" listid="1029" parentid="0" style="Normal" xid="208" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1032; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="209" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Menerima manual cara penggunaan</c></p>
+<p style="Normal" xid="96" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="97" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Kewajiban Pihak Kedua :</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p level="1" listid="1033" parentid="0" style="Normal" xid="211" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1034"></c><field type="list_label" xid="212" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Membuat Web Profile Corma Umroh</c></p>
+<p level="1" listid="1033" parentid="0" style="Normal" xid="213" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1035; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="214" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Memberikan penjelasan mengenai cara penggunaan Web Profile Corma Umroh kepada Pihak Pertama</c></p>
+<p level="1" listid="1033" parentid="0" style="Normal" xid="215" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="width:0in; list-tag:1036; font-family:Serif; display:inline; font-style:normal; font-weight:normal; color:000000; lang:en-US; homogeneous:1; text-transform:none; font-variant:normal; text-decoration:none; bgcolor:transparent; list-style:Numbered List; font-size:11pt; height:0in; text-position:normal; font-stretch:normal"></c><field type="list_label" xid="216" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Memberikan manual cara penggunaan kepada Pihak Pertama</c></p>
+<p style="Normal" xid="210" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Hak Pihak kedua :</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p level="1" listid="1037" parentid="0" style="Normal" xid="217" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1038"></c><field type="list_label" xid="218" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	Menerima pembayaran sesuai dengan kesepakatan pada pasal 6</c></p>
+<p style="Normal" xid="107" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="219" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="108" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 8</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="109" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">SILANG SENGKETA</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p level="1" listid="1039" parentid="0" style="Normal" xid="221" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1040"></c><field type="list_label" xid="222" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Jika kemudian hari terjadi silang sengketa antara kedua belah pihak dalam suatu hal maka akan diselesaikan melalui jalan musyawarah, dan jika tidak tercapai kesepakatan maka perjanjian ini dapat dibatalkan oleh kedua belah pihak</c></p>
+<p level="1" listid="1039" parentid="0" style="Normal" xid="223" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1041"></c><field type="list_label" xid="224" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Sebelum Perjanjian Kontrak kerja ini dibatalkan, seluruh pihak yang terikat dalam perjanjian kerjsama ini harus terlebih dahulu melaksanakan dan mematuhi semua akad-akad perjanjian sesuai hak dan kewajibannya pada saat kontrak ini dibatalkan</c></p>
+<p style="Normal" xid="115" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="116" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 9</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="117" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">LAIN-LAIN</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="118" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="120" props="text-align:justify; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Hal-hal yang belum diatur dalam surat perjanjian kerjasama ini akan dibicarakan kemudian hari dan akan dicatatkan pada lampiran tambahan surat kesepakatan kontrak kerja.</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="121" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="122" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Pasal 10</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="123" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">PENUTUP</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="124" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p level="1" listid="1043" parentid="0" style="Normal" xid="125" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1044"></c><field type="list_label" xid="227" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Surat perjanjian kerjasama ini dibuat tanpa ada tekanan dan paksaan sedikitpun.</c></p>
+<p level="1" listid="1043" parentid="0" style="Normal" xid="228" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:justify; field-font:NULL"><c props="font-size:11pt; font-family:Serif; list-tag:1045"></c><field type="list_label" xid="229" props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal"></field><c props="width:0in; font-family:Serif; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; color:000000; list-style:Numbered List; bgcolor:transparent; font-size:11pt; homogeneous:1; text-decoration:none; height:0in; text-position:normal; font-stretch:normal">	</c><c props="font-family:Serif; font-size:11pt">Surat perjanjian kontrak kerja service komputer ini dibuat rangkap 2 (dua) diatas kertas bermatrai cukup dengan mempunyai kekuatan hukum yang sama.</c></p>
+<p style="Normal" xid="128" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="129" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="254" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="130" props="text-align:right; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt">Bandung, 9 September 2016</c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="253" props="text-align:right; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="131" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="132" props="dom-dir:ltr; bot-style:0; shading-pattern:0; text-align:left; right-color:000000; top-color:000000; left-color:000000; top-style:0; shading-foreground-color:white; bot-color:000000; right-style:0; left-style:0"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<table xid="231" props="list-tag:1">
+<cell xid="232" props="bg-style:1; left-color:000000; bot-style:0; right-attach:1; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; top-style:0; right-style:0; left-style:0; bot-attach:1; top-attach:0">
+<p style="Normal" xid="233" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">PIHAK PERTAMA</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="255" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="239" props="text-align:center; font-size:11pt; font-family:Serif">Direktur Corma Umroh<c></c></p>
+<p style="Normal" xid="240" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="241" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="242" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="243" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="244" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="245" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">Dedi Pardiansyah Natanagara</c><c props="font-weight:bold"></c></p>
+</cell>
+<cell xid="235" props="bg-style:1; left-color:000000; bot-style:0; right-attach:2; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; top-style:0; right-style:0; left-style:0; bot-attach:1; top-attach:0">
+<p style="Normal" xid="236" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">PIHAK KEDUA</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="256" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="246" props="text-align:center; font-size:11pt; font-family:Serif">Programmer</p>
+<p style="Normal" xid="247" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="248" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="249" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="250" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="251" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+<p style="Normal" xid="252" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">Yopi</c><c props="font-weight:bold"></c></p>
+</cell>
+</table>
+<p style="Normal" xid="230" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="257" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="258" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="259" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="260" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"><pbr/></c><c props="font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="261" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt">Lampiran 1</c><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="262" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="263" props="text-align:center; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt">DAFTAR FITUR </c><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c></p>
+<p style="Normal" xid="264" props="text-align:center; dom-dir:ltr"><c props="font-weight:bold; font-family:Serif; font-size:11pt"></c><c props="font-weight:bold; font-family:Serif; font-size:11pt">WEB PROFILE CORMA UMROH</c></p>
+<p style="Normal" xid="265" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<p style="Normal" xid="266" props="text-align:center; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+<table xid="269" props="list-tag:1; table-column-props:0.5625in/2.0625in/3.6250in/">
+<cell xid="270" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="271" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">No</c><c props="font-weight:bold"></c></p>
+</cell>
+<cell xid="273" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="274" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">Nama Fitur</c><c props="font-weight:bold"></c></p>
+</cell>
+<cell xid="276" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="277" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-weight:bold">Deskripsi</c><c props="font-weight:bold"></c></p>
+</cell>
+<cell xid="279" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="280" props="text-align:center; font-size:11pt; font-family:Serif">1</p>
+</cell>
+<cell xid="282" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="283" props="font-family:Serif; font-size:11pt">Image Slider</p>
+</cell>
+<cell xid="285" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="286" props="text-align:center; font-size:11pt; font-family:Serif">Menampilkan gambar widescreen yang menggambarkan corma umroh dan kegiatan-kegiatannya</p>
+</cell>
+<cell xid="289" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="290" props="text-align:center; font-size:11pt; font-family:Serif">2</p>
+</cell>
+<cell xid="292" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="293" props="font-family:Serif; font-size:11pt">Daftar Program / Jadwal Pemberangkatan</p>
+</cell>
+<cell xid="295" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="296" props="text-align:center; font-size:11pt; font-family:Serif"><c></c></p>
+</cell>
+<cell xid="298" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="299" props="text-align:center; font-size:11pt; font-family:Serif">3</p>
+</cell>
+<cell xid="301" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="302" props="font-family:Serif; font-size:11pt">Detail Program/ Jadwal Pemberangkatan</p>
+</cell>
+<cell xid="304" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="305" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+</cell>
+<cell xid="307" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="308" props="text-align:center; font-size:11pt; font-family:Serif">4</p>
+</cell>
+<cell xid="310" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="311" props="font-family:Serif; font-size:11pt">Daftar Produk </p>
+</cell>
+<cell xid="313" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p style="Normal" xid="314" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="316" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="317" props="text-align:center; font-size:11pt; font-family:Serif">5</p>
+</cell>
+<cell xid="319" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="320" props="font-family:Serif; font-size:11pt">Detail Produk</p>
+</cell>
+<cell xid="322" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
+<p style="Normal" xid="323" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="325" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="Normal" xid="326" props="text-align:center; font-size:11pt; font-family:Serif">6</p>
+</cell>
+<cell xid="328" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="Normal" xid="329" props="font-family:Serif; font-size:11pt">Daftar Gallery</p>
+</cell>
+<cell xid="331" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
+<p style="Normal" xid="332" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="334" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="Normal" xid="335" props="text-align:center; font-size:11pt; font-family:Serif">7</p>
+</cell>
+<cell xid="337" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="Normal" xid="338" props="font-family:Serif; font-size:11pt">Detail Gallery</p>
+</cell>
+<cell xid="340" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
+<p style="Normal" xid="341" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="343" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="Normal" xid="344" props="text-align:center; font-size:11pt; font-family:Serif">8</p>
+</cell>
+<cell xid="346" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="Normal" xid="347" props="font-family:Serif; font-size:11pt">About / History</p>
+</cell>
+<cell xid="349" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
+<p style="Normal" xid="350" props="text-align:center; font-size:11pt; font-family:Serif">Riwayat perusahaan</p>
+</cell>
+<cell xid="352" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<p style="Normal" xid="353" props="text-align:center; font-size:11pt; font-family:Serif">9</p>
+</cell>
+<cell xid="355" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<p style="Normal" xid="356" props="font-family:Serif; font-size:11pt">Team Company</p>
+</cell>
+<cell xid="358" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
+<p style="Normal" xid="359" props="text-align:center; font-size:11pt; font-family:Serif"><c></c><c></c></p>
+</cell>
+<cell xid="361" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
+<p style="Normal" xid="362" props="text-align:center; font-size:11pt; font-family:Serif">10</p>
+</cell>
+<cell xid="364" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
+<p style="Normal" xid="365" props="font-family:Serif; font-size:11pt">Contact</p>
+</cell>
+<cell xid="367" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
+<p style="Normal" xid="368" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="370" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
+<p style="Normal" xid="371" props="text-align:center; font-size:11pt; font-family:Serif">11</p>
+</cell>
+<cell xid="373" props="bot-attach:12; left-attach:1; right-attach:2; top-attach:11">
+<p style="Normal" xid="374" props="font-family:Serif; font-size:11pt">Form pendaftaran online<c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"> </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c>jamaah </p>
+</cell>
+<cell xid="376" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
+<p style="Normal" xid="377" props="text-align:center; font-size:11pt; font-family:Serif">Form isian diantaranya nama, kontak, catatan dan upload berkas</p>
+</cell>
+<cell xid="379" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
+<p style="Normal" xid="380" props="text-align:center; font-size:11pt; font-family:Serif">12</p>
+</cell>
+<cell xid="382" props="bot-attach:13; left-attach:1; right-attach:2; top-attach:12">
+<p style="Normal" xid="383" props="font-family:Serif; font-size:11pt">Login dashboard</p>
+</cell>
+<cell xid="385" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
+<p style="Normal" xid="386" props="text-align:center; font-size:11pt; font-family:Serif">Custom login url, lebih aman</p>
+</cell>
+<cell xid="388" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
+<p style="Normal" xid="389" props="text-align:center; font-size:11pt; font-family:Serif">13</p>
+</cell>
+<cell xid="391" props="bot-attach:14; left-attach:1; right-attach:2; top-attach:13">
+<p style="Normal" xid="392" props="font-family:Serif; font-size:11pt">Tambah, Edit, Hapus Image Slider</p>
+</cell>
+<cell xid="394" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
+<p style="Normal" xid="395" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="397" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
+<p style="Normal" xid="398" props="text-align:center; font-size:11pt; font-family:Serif">14</p>
+</cell>
+<cell xid="400" props="bot-attach:15; left-attach:1; right-attach:2; top-attach:14">
+<p style="Normal" xid="401" props="text-align:left; font-size:11pt; font-family:Serif">Tambah, Edit, Hapus, Cari Data Program</p>
+</cell>
+<cell xid="403" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
+<p style="Normal" xid="404" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="406" props="bot-attach:16; left-attach:0; right-attach:1; top-attach:15">
+<p style="Normal" xid="407" props="text-align:center; font-size:11pt; font-family:Serif">15</p>
+</cell>
+<cell xid="409" props="bot-attach:16; left-attach:1; right-attach:2; top-attach:15">
+<p style="Normal" xid="410" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Tambah, Edit, Hapus, Cari Data Produk</c><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+</cell>
+<cell xid="412" props="bot-attach:16; left-attach:2; right-attach:3; top-attach:15">
+<p style="Normal" xid="413" props="font-family:Serif; font-size:11pt"><c></c><c></c></p>
+</cell>
+<cell xid="415" props="bot-attach:17; left-attach:0; right-attach:1; top-attach:16">
+<p style="Normal" xid="416" props="text-align:center; font-size:11pt; font-family:Serif">16</p>
+</cell>
+<cell xid="418" props="bot-attach:17; left-attach:1; right-attach:2; top-attach:16">
+<p style="Normal" xid="419" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Tambah, Edit, Hapus, Cari Data Gallery</c><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+</cell>
+<cell xid="421" props="bot-attach:17; left-attach:2; right-attach:3; top-attach:16">
+<p style="Normal" xid="422" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+</cell>
+<cell xid="424" props="bot-attach:18; left-attach:0; right-attach:1; top-attach:17">
+<p style="Normal" xid="425" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-family:Serif; font-size:11pt">17</c><c props="font-family:Serif; font-size:11pt"></c></p>
+</cell>
+<cell xid="427" props="bot-attach:18; left-attach:1; right-attach:2; top-attach:17">
+<p style="Normal" xid="428" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Tambah, Edit, Hapus, Data History</c><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+</cell>
+<cell xid="430" props="bot-attach:18; left-attach:2; right-attach:3; top-attach:17">
+<p style="Normal" xid="431" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+</cell>
+<cell xid="433" props="bot-attach:19; left-attach:0; right-attach:1; top-attach:18">
+<p style="Normal" xid="434" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-family:Serif; font-size:11pt">18</c><c props="font-family:Serif; font-size:11pt"></c></p>
+</cell>
+<cell xid="436" props="bot-attach:19; left-attach:1; right-attach:2; top-attach:18">
+<p style="Normal" xid="437" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Tambah, Edit, Hapus, Cari Data Team</c><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+</cell>
+<cell xid="439" props="bot-attach:19; left-attach:2; right-attach:3; top-attach:18">
+<p style="Normal" xid="440" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt"></c><c></c></p>
+</cell>
+<cell xid="442" props="bot-attach:20; left-attach:0; right-attach:1; top-attach:19">
+<p style="Normal" xid="443" props="text-align:center; font-size:11pt; font-family:Serif"><c props="font-family:Serif; font-size:11pt">19</c><c props="font-family:Serif; font-size:11pt"></c></p>
+</cell>
+<cell xid="445" props="bot-attach:20; left-attach:1; right-attach:2; top-attach:19">
+<p style="Normal" xid="446" props="font-family:Serif; font-size:11pt"><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Tambah, Edit, Hapus, Data Kontak</c><c props="font-family:Serif; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+</cell>
+<cell xid="448" props="bot-attach:20; left-attach:2; right-attach:3; top-attach:19">
+<p style="Normal" xid="449" props="text-align:center; font-size:11pt; font-family:Serif"><c></c></p>
+</cell>
+<cell xid="451" props="bot-attach:21; left-attach:0; right-attach:1; top-attach:20">
+<p style="Normal" xid="452" props="text-align:center; font-size:11pt; font-family:Serif">20</p>
+</cell>
+<cell xid="454" props="bot-attach:21; left-attach:1; right-attach:2; top-attach:20">
+<p style="Normal" xid="455" props="font-family:Serif; font-size:11pt">Data jamaah yang mendaftar online</p>
+</cell>
+<cell xid="457" props="bot-attach:21; left-attach:2; right-attach:3; top-attach:20">
+<p style="Normal" xid="458" props="text-align:center; font-size:11pt; font-family:Serif">Berupa daftar tabel dilengkapi dengan pencarian</p>
+</cell>
+<cell xid="460" props="bot-attach:22; left-attach:0; right-attach:1; top-attach:21">
+<p style="Normal" xid="461" props="text-align:center; font-size:11pt; font-family:Serif">21</p>
+</cell>
+<cell xid="463" props="bot-attach:22; left-attach:1; right-attach:2; top-attach:21">
+<p style="Normal" xid="464" props="font-family:Serif; font-size:11pt">Ekspor data jamaah online ke excel</p>
+</cell>
+<cell xid="466" props="bot-attach:22; left-attach:2; right-attach:3; top-attach:21">
+<p style="Normal" xid="467" props="text-align:center; font-size:11pt; font-family:Serif">Format xlsx</p>
+</cell>
+<cell xid="473" props="bot-attach:23; left-attach:0; right-attach:1; top-attach:22">
+<p style="Normal" xid="474" props="text-align:center; font-size:11pt; font-family:Serif">22</p>
+</cell>
+<cell xid="476" props="bot-attach:23; left-attach:1; right-attach:2; top-attach:22">
+<p style="Normal" xid="477" props="font-family:Serif; font-size:11pt">Seting </p>
+</cell>
+<cell xid="479" props="bot-attach:23; left-attach:2; right-attach:3; top-attach:22">
+<p style="Normal" xid="480" props="text-align:left; font-size:11pt; font-family:Serif">Isian diantaranya nama web, url facebook, instagram, <c>update logo</c></p>
+</cell>
+</table>
+<p style="Normal" xid="268" props="text-align:left; dom-dir:ltr"><c props="font-family:Serif; font-size:11pt"></c></p>
+</section>
+</abiword>
